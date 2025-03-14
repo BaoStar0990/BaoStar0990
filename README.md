@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)]([https://github.com/Naereen?tab=followers](https://komarev.com/ghpvc/?username=BaoStar0990&color=blue))
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BaoStar0990&title=Profile+Views)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
