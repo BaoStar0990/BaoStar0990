@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=BaoStar0990&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
