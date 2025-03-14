@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
 
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
