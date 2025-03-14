@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm BaoStar</h1>
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BaoStar0990&title=Profile+Views)
 <h3 align="center">Just a normal IT uni student looking for an intern job for improve more experience and skills</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BaoStar0990?tab=repositories](https://github.com/BaoStar0990?tab=repositories)
@@ -6,8 +7,6 @@
 - 📫 How to reach me **slamandertranbao2712@gmail.com**
 
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BaoStar0990&title=Profile+Views)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
