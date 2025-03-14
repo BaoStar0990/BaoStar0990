@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm BaoStar</h1>
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BaoStar0990&title=Profile+Views)
+
 <h3 align="center">Just a normal IT uni student looking for an intern job for improve more experience and skills</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BaoStar0990?tab=repositories](https://github.com/BaoStar0990?tab=repositories)
