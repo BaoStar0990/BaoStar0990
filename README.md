@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BaoStar</h1>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BaoStar0990&title=Profile+Views)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <h3 align="center">Just a normal IT uni student looking for an intern job for improve more experience and skills</h3>
 
