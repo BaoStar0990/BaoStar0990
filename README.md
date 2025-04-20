@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/BaoStar0990">
-    <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="MasterHead" />
+    <img src="https://whiteduck.de/wp-content/uploads/WD-Developer-Productivity-Website-1170x680px.gif" alt="MasterHead" />
   </a>
 </p>
 
