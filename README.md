@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm BaoStar</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baostar0990&theme=jolly&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baostar0990&layout=pie&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Just a normal IT uni student looking for an intern job to improve more experience and skills</h3>
 
@@ -9,8 +10,6 @@
 - 📫 How to reach me **slamandertranbao2712@gmail.com**
 
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baostar0990&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
