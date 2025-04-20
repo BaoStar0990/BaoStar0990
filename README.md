@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm BaoStar</h1>
 
+![](https://komarev.com/ghpvc/?username=baostar0990)
+
 <p align="center">
   <a href="https://github.com/BaoStar0990">
     <img src="https://whiteduck.de/wp-content/uploads/WD-Developer-Productivity-Website-1170x680px.gif" alt="MasterHead" />
