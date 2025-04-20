@@ -17,13 +17,13 @@
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
 
 <p align="center">
-  <a href="https://github.com/BaoStar0990">
-    <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="MasterHead" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=baostar0990&theme=jolly&show_icons=true" alt="BaoStar's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baostar0990&theme=jolly&show_icons=true" alt="BaoStar's GitHub stats" />
+  <a href="https://github.com/baostar0990/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baostar0990&layout=pie&theme=jolly" alt="Top Langs" />
+  </a>
 </p>
 
 
