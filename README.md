@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baostar0990&theme=jolly&show_icons=true)
 
-<h3 align="center">Just a normal IT uni student looking for an intern job for improve more experience and skills</h3>
+<h3 align="center">Just a normal IT uni student looking for an intern job to improve more experience and skills</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BaoStar0990?tab=repositories](https://github.com/BaoStar0990?tab=repositories)
 
