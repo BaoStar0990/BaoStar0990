@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BaoStar</h1>
 
-![](https://komarev.com/ghpvc/?username=baostar0990)
+![](https://komarev.com/ghpvc/?username=baostar0990&color=blueviolet)
 
 <p align="center">
   <a href="https://github.com/BaoStar0990">
