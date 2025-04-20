@@ -16,9 +16,8 @@
 
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baostar0990&theme=jolly&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baostar0990&layout=pie&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baostar0990&theme=jolly&show_icons=true)</p>
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baostar0990&layout=pie&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
