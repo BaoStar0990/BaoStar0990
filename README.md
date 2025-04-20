@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **Beside coding, I also play sports and research for new technology in my free time..**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baostar0990&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tr%e1%ba%a7n-b%e1%ba%a3o-slamander-147380284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tr%e1%ba%a7n-b%e1%ba%a3o-slamander-147380284/" height="30" width="40" /></a>
